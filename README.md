@@ -14,3 +14,5 @@ I added a few more things.
 
 - Fastplace work only blocks
 
+- self-destruct improved
+
