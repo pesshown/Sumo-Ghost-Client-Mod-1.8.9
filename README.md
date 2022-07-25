@@ -1,4 +1,4 @@
-# Cheatbreaker-Ghost-Client-Mod-1.8.9
+# Sumo-Ghost-Client-Mod-1.8.9
 
 I added a few more things.
 
